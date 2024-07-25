@@ -1,8 +1,11 @@
 {
+  "redirects": [{"source": "/en",       "destination": "/https:namestar.comproductsatodo-com",       "permanent": true     }
+],
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "https://namestar.com/$1"
- }
+    }
   ]
 }
+    
