@@ -1,5 +1,5 @@
 {
-  "redirects": [{"source": "/en",       "destination": "/https:namestar.comproductsatodo-com",       "permanent": true     }
+  "redirects": [{"source": "/en",       "destination": "/https:namestar.comproductsatodo-com",       "permanent": true     },{"source": "/en",       "destination": "/productsatodo-com",       "permanent": true     }
 ],
   "rewrites": [
     {
