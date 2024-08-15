@@ -1,5 +1,5 @@
 {
-  "redirects": [{"source": "/",       "destination": "/productsatodo-com",       "permanent": true     }
+  "redirects": [{"source": "/",       "destination": "/productsatodo-com",       "permanent": true     },{"source": "/",       "destination": "/products/atodo-net",       "permanent": true     }
 ],
   "rewrites": [
     {
